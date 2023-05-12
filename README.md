@@ -1,2 +1,2 @@
-# C---Hackerrank
+# C - Sharp Hackerrank
 My hackerrank solutions in C# 
